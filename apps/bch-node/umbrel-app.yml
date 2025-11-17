@@ -15,7 +15,7 @@ description: >-
 releaseNotes: ""
 developer: machelmontano
 website: https://bitcoincashnode.org
-repo: https://github.com/ton-compte/bch-node-umbrel
+repo: https://github.com/machelmontanoo/bch-node
 support: https://community.umbrel.com
 
 port: 8080
