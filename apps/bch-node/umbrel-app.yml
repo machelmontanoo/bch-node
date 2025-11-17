@@ -2,7 +2,7 @@ manifestVersion: 1
 
 id: bch-node
 category: finance
-name: Bitcoin Cash Node
+name: TEST123
 version: "0.1.0"
 
 tagline: Full Bitcoin Cash (BCH) node for Umbrel
