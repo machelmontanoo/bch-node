@@ -1,0 +1,31 @@
+manifestVersion: 1
+
+id: bch-node
+category: finance
+name: Bitcoin Cash Node
+version: "0.1.0"
+
+tagline: Full Bitcoin Cash (BCH) node for Umbrel
+description: >-
+  Run a full Bitcoin Cash (BCH) node on your Umbrel server. This app runs a
+  Bitcoin Cash Node full node inside Docker, persists the blockchain on your
+  Umbrel storage, and exposes RPC and P2P ports that can be used by other
+  services such as mining software or explorers.
+
+releaseNotes: ""
+developer: machelmontano
+website: https://bitcoincashnode.org
+repo: https://github.com/machelmontanoo/bch-node
+support: https://community.umbrel.com
+
+port: 8080
+
+gallery: []
+path: ""
+
+defaultUsername: ""
+defaultPassword: ""
+
+dependencies: []
+submitter: machelmontano
+submission: ""
